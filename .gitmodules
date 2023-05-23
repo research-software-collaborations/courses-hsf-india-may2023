@@ -1,0 +1,12 @@
+[submodule "scientific-python"]
+	path = scientific-python
+	url = git@github.com:hsf-india-may2023/scientific-python.git
+[submodule "JAX_in_HEP"]
+	path = JAX_in_HEP
+	url = git@github.com:hsf-india-may2023/JAX_in_HEP.git
+[submodule "cpp_intro"]
+	path = cpp_intro
+	url = git@github.com:hsf-india-may2023/cpp_intro.git
+[submodule "ml_introduction"]
+	path = ml_introduction
+	url = git@github.com:hsf-india-may2023/ml_introduction.git
